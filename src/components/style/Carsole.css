@@ -1,0 +1,17 @@
+#filter {
+  border: 2px solid rgb(150, 150, 150);
+}
+
+img:hover {
+  border-bottom: 3px solid rgb(33, 33, 33);
+
+}
+
+img {
+  cursor: pointer;
+}
+
+.slick-prev,
+.slick-next ::before {
+  color: aqua;
+}

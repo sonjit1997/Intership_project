@@ -1,0 +1,59 @@
+.grid1 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  text-align: center;
+
+
+}
+
+
+
+img {
+
+  text-align: center;
+  border-radius: 2%;
+}
+
+#title {
+  float: left;
+  font-weight: 400;
+  font-family: sans-serif;
+}
+
+#title2 {
+  float: right;
+  font-weight: 500;
+}
+
+#muted {
+
+  margin-right: 67%;
+}
+
+#unmuted {
+  font-weight: bolder;
+  margin-right: 63%;
+  margin-bottom: 2%;
+  margin-left: 1%;
+}
+
+.card:hover {
+  border-bottom: 1px solid rgb(142, 141, 141);
+  cursor: pointer;
+}
+
+#hart {
+  float: right;
+  color: rgb(247, 247, 202);
+}
+
+#hart:hover {
+  color: rgb(188, 0, 0);
+}
+
+.top {
+  margin-top: 12rem;
+}
+#star{
+  margin-bottom: 0.3rem;
+}

@@ -1,0 +1,29 @@
+#round {
+  padding-bottom: 0%;
+  border: 1px solid rgb(197, 196, 196);
+  box-shadow: 0 7px 7px rgb(197, 196, 196);
+  height: 3rem;
+  width: 30rem;
+  margin-right: 18%;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+form {
+  margin-left: 1rem;
+}
+
+nav {
+  display: inline;
+}
+
+#drop {
+
+  border: 1px solid rgb(197, 196, 196);
+  box-shadow: 0 4px 4px rgb(197, 196, 196);
+  font-size: 1.2rem;
+
+}
