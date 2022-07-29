@@ -6,7 +6,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg mt-2">
         <div className="container-fluid">
-          <a className="navbar-brand text-red" href="#">
+          <a className="navbar-brand text-red" >
             {" "}
             <h1 style={{ color: "red" }}>
               <svg
@@ -138,12 +138,12 @@ function Navbar() {
           </button>
           <ul class="dropdown-menu">
             <li>
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" >
                 Login
               </a>
             </li>
             <li>
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" >
                 Signup
               </a>
             </li>
@@ -151,12 +151,12 @@ function Navbar() {
               <hr class="dropdown-divider" />
             </li>
             <li>
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" >
                 Host your Home
               </a>
             </li>
             <li>
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" >
                 Help
               </a>
             </li>

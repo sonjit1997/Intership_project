@@ -10,6 +10,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/fa2ed873-e726-4e6d-ab1a-28bc7c69d805.jpg?im_w=1200"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -58,6 +59,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/b313b87c-85e6-4666-a859-f533489662ce.jpg?im_w=1200"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div class="card-img-overlay">
               <svg
@@ -106,6 +108,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/373443ec-b377-4181-b753-3a2f3508c2b3.jpg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -154,6 +157,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/miso/Hosting-52159627/original/4f4102ab-2f61-41f5-89bc-849f966478a8.jpeg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
 
             <div className="card-img-overlay">
@@ -206,6 +210,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/16f4c777-2587-4008-b755-86747c59b5e7.jpg?im_w=1200"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -254,6 +259,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/miso/Hosting-52159627/original/bb4dbe3f-fba1-4787-b3a0-49daf857c7a0.jpeg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -302,6 +308,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/963b17aa-a8eb-4a1b-bf45-7e50bcbdf705.jpg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -350,6 +357,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/miso/Hosting-49090690/original/2e13571e-e2c1-4c16-80db-20184b9c6c0b.jpeg?im_w=1200"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -401,6 +409,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/599b58b5-41e0-40cb-a4e9-41934846f94e.jpg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -449,6 +458,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/7c586cfa-6a5c-4ec1-8fcd-5890b6a50769.jpg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div class="card-img-overlay">
               <svg
@@ -497,6 +507,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/c3b09b25-08e1-43ed-b5a3-6ea972d7a725.jpg?im_w=1440"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
@@ -545,6 +556,7 @@ function Hotels() {
               src="https://a0.muscache.com/im/pictures/5c5f10a1-e8bc-40f3-9f3d-9ff7811eb612.jpg?im_w=1200"
               className="card-img-top"
               height="250 px"
+              alt="img"
             />
             <div className="card-img-overlay">
               <svg
